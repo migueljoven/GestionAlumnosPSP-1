@@ -4,7 +4,7 @@ proyecto para el primer trimestre de Programacion de Servicios y Procesos
 ## utilizacion
 
 descargar el proyecto, realizar npm install && npm start 
-realizar peticiones GET, POST, PUT y DELETE al la direccion: https://ip:3000
+realizar peticiones GET, POST, PUT y DELETE a la direccion: https://ip:3000
 tanto a los POST como al hacer los PUT debemos enviar un JSON valido en el body de la peticion
 
 ## peticiones
@@ -82,7 +82,7 @@ https://ip:3000/Matriculas/:dni_alumno/:codigo_asignatura/:fecha
 
 ## Autores
 
-* **Pedro Torrebejano Guerero** 
+* **Pedro Torrebejano Guerrero** 
 * **Francisco Arroyo Eliche** 
 * **Miguel Muñoz Luque** 
 * **David Martinez Tuñon** 
