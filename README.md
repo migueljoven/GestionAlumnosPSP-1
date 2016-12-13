@@ -80,7 +80,7 @@ actualizar una matricula
 https://ip:3000/Matriculas/:dni_alumno/:codigo_asignatura/:fecha
 ```
 
-## Authors
+## Autores
 
 * **Pedro Torrebejano Guerero** 
 * **Francisco Arroyo Eliche** 
