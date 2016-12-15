@@ -1,3 +1,7 @@
+CREATE DATABASE IF NOT EXISTS proyecto;
+
+USE proyecto
+
 CREATE TABLE IF NOT EXISTS alumnos (
 dni varchar(9) NOT NULL primary key,
 nombre varchar(50) DEFAULT NULL,
